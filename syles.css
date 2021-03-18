@@ -1,0 +1,47 @@
+.me {
+  font-size: 10px;
+}
+.body {
+  background-color: black;
+background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/69/82/CDV7nu.jpg);
+}
+
+body {
+   background-color: black;
+   background-image: url(https://free4kwallpapers.com/uploads/originals/2015/09/03/neon-skull.jpg);
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: skyblue;
+  border-width: 4px;
+  width: 30%;
+}
+table {
+ background: none;
+}
+ h1 {
+ color: skyblue;
+ }
+ h3 {
+   color: skyblue;
+ }
+li {
+  color: skyblue;
+}
+td {
+  background: none;
+  color: skyblue;
+}
+label {
+  color: skyblue;
+}
+input {
+ background-color: black;
+  color: skyblue;
+}
+textarea {
+  background: none;
+  color: skyblue;
+}
